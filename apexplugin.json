@@ -29,7 +29,7 @@
         "internalName" : "COM.STICKY_HEADER",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/expense_management1/r/sticky-header/home",
-        "previewImage" : "https://github.com/SantoshBhandage/ApexPlugins/blob/main/Preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/SantoshBhandage/ApexPlugins/main/Preview.png"
       }
     }
   }
