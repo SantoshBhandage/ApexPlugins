@@ -24,7 +24,7 @@
   "oracle" : {
     "versions" : ["11.2.0.1","12.1.0.1","19.0.0.0"],
     "apex" : {
-      "versions" : ["5.1.4","18.1.0","19.1.0","19.2.0","20.2.0"],
+      "versions" : ["18.1.0","19.1.0","19.2.0","20.2.0"],
       "plugin" : {
         "internalName" : "COM.STICKY_HEADER",
         "type" : "dynamic action",
