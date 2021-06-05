@@ -1,0 +1,36 @@
+{
+  "name" : "StickyHeader",
+  "version" : "1.0",
+  "description" : "It us useful to freeze the report headers / columns / rows in APEX classic / Interactive / custom table report.",
+  "keywords" : ["freeze", "sticky", "header", "fixed"],
+  "homepage" : "https://github.com/Dani3lSun/apex-plugin-guidedtour",
+  "bugs" : {
+    "url" : "https://github.com/SantoshBhandage/ApexPlugins",
+    "email" : "sbhandage@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Santosh Bhandage",
+    "email" : "sbhandage@gmail.com",
+    "url" : "https://apex.oracle.com/pls/apex/expense_management1/r/santosh_bhandage/home"
+    "twitter" : ""
+    "donationUrl" : ""
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/SantoshBhandage/ApexPlugins"
+  },
+  "oracle" : {
+    "versions" : ["18", "19", "20"],
+    "apex" : {
+      "versions" : ["18", "19", "20"],
+      "plugin" : {
+        "internalName" : "COM.STICKY_HEADER",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/expense_management1/r/sticky-header/home",
+        "previewImage" : "https://github.com/SantoshBhandage/ApexPlugins/blob/main/Preview.png"
+      }
+    }
+  }
+}
