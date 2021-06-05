@@ -1,7 +1,7 @@
 {
   "name" : "StickyHeader",
   "version" : "1.0",
-  "description" : "It us useful to freeze the report headers / columns / rows in APEX classic / Interactive / custom table report.",
+  "description" : "It is useful to freeze the report headers / columns / rows on APEX classic / Interactive / custom table report.",
   "keywords" : ["freeze", "sticky", "header", "fixed"],
   "homepage" : "https://github.com/SantoshBhandage/ApexPlugins.git",
   "bugs" : {
