@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "It us useful to freeze the report headers / columns / rows in APEX classic / Interactive / custom table report.",
   "keywords" : ["freeze", "sticky", "header", "fixed"],
-  "homepage" : "https://github.com/Dani3lSun/apex-plugin-guidedtour",
+  "homepage" : "https://github.com/SantoshBhandage/ApexPlugins",
   "bugs" : {
     "url" : "https://github.com/SantoshBhandage/ApexPlugins",
     "email" : "sbhandage@gmail.com"
